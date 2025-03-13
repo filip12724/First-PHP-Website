@@ -21,6 +21,7 @@ Complex SQL queries for dynamic content.
 Basic authentication and session handling.
 
 📖 What I Learned
+
 PHP fundamentals (syntax, forms, sessions).
 
 Connecting PHP to MySQL databases.
