@@ -1,6 +1,6 @@
 Description: My first PHP project! A simple web application with features like an admin panel, user management, and custom database queries.
 
-The full documentation is available in the repository.
+The full documentation is available in the repository, or if you cant find it its here https://github.com/filip12724/First-PHP-Website/blob/main/Dokumentacija-PHP-1.pdf.
 
 ⚠️ Disclaimer
 This was my first PHP project, built while learning the basics of web development. I’m aware that:
