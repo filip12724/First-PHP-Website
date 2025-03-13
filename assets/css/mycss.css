@@ -1,0 +1,58 @@
+#main-product{
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.10);
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+#main-price{
+    display:block;
+    text-decoration: line-through;
+}
+.discount {
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+
+    background-color: #ee626b; /* Boja pozadine */
+    color: white; /* Boja teksta */
+    padding: 5px 10px; /* Padding unutar elementa */
+    border-radius: 50%; /* Zaobljeni rubovi */
+    font-size: 14px; /* Veličina fonta */
+}
+.sakrij {
+    display: none;
+}
+.good{
+    color:green;
+}
+.bad{
+    color:red;
+}
+.alert {
+    width: 50%;
+    margin: 0 auto; /* This centers the element horizontally */
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+.search-input {
+    width: 100%;
+    margin:auto;
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+#search{
+    margin:auto;
+    width:50%;
+    margin-bottom: 5%;
+}
+.author-image {
+    max-width: 100%;
+    height: auto;
+}
